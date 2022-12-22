@@ -1,0 +1,279 @@
+.container {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.box1 {
+    display: flex;
+}
+
+.p {
+    margin-right: 50px;
+}
+
+.text {
+    margin-left: 300px;
+}
+
+.box2:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.box2 {
+    border-radius: 10px;
+    width: 150px;
+    height: 20px;
+    background: #111B47;
+    margin-left: 350px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.aaa {
+    text-decoration: none;
+}
+
+.box3 {
+    display: flex;
+}
+
+.text1 {
+    width: 400px;
+}
+
+.text2 {
+    width: 330px;
+}
+
+.box4 {
+    display: flex;
+}
+
+.box5:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.box5 {
+    width: 150px;
+    height: 30px;
+    background: #111B47;
+    margin-right: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.box6:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.box6 {
+    width: 150px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 10px;
+    border: 2px solid #091133;
+    border-radius: 2px;
+}
+
+.box7 {
+    margin-top: 50px;
+}
+
+.box8 {
+    display: flex;
+}
+
+.text3 {
+    width: 450px;
+}
+
+.images {
+    margin-left: 100px;
+}
+
+.box10 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.text4 {
+    width: 200px;
+}
+
+.text5 {
+    width: 200px;
+}
+
+.box12 {
+    display: flex;
+}
+
+.text6 {
+    margin-left: 200px;
+}
+
+.text7 {
+    width: 300px;
+    margin-left: 200px;
+}
+
+.box12 {
+    margin-top: 100px;
+}
+
+.box13 {
+    display: flex;
+    margin-top: 150px;
+}
+
+.text9 {
+    margin-left: 200px;
+}
+
+.text10 {
+    width: 300px;
+    margin-left: 200px;
+}
+
+.box14 {
+    display: flex;
+    margin-top: 150px;
+}
+
+.text12 {
+    margin-left: 200px;
+}
+
+.text13 {
+    width: 300px;
+    margin-left: 200px;
+}
+
+.boks:hover {
+    background-color: crimson;
+}
+
+.boks {
+    width: 150px;
+    height: 20px;
+    background: #111B47;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    color: white;
+}
+
+.div {
+    margin-top: 150px;
+}
+
+.text14 {
+    width: 1120px;
+    height: 600px;
+    background: #E7ECFF;
+}
+
+.text15 {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.text16 {
+    height: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+.text20 {
+    width: 450px;
+    padding-left: 280px;
+}
+
+.text17 {
+    text-align: center;
+}
+
+.text18 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.text19 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.box15:hover {
+    background-color: rgb(0, 204, 255);
+}
+
+.box15 {
+    width: 180px;
+    height: 20px;
+    background: #111B47;
+    text-align: center;
+    margin-left: 470px;
+    color: white;
+}
+
+.box16 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box17 {
+    width: 180px;
+    height: 20px;
+    background: #111B47;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.box18 {
+    display: flex;
+}
+
+.left {
+    margin-left: 35px;
+}
+
+.color {
+    background: #E7ECFF;
+}
+
+.textt {
+    margin-left: 15px;
+}
+
+.imag {
+    display: flex;
+    align-items: end;
+    margin-left: 800px;
+    margin-bottom: 20px;
+}
+
+.logo1 {
+    margin-right: 10px;
+}
+
+.logo2 {
+    margin-right: 10px;
+}
+
+.logo3 {
+    margin-right: 10px;
+}
+
+.logo4 {
+    margin-right: 10px;
+}
